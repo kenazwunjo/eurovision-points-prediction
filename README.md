@@ -1,1 +1,0 @@
-# eurovision-points-prediction
